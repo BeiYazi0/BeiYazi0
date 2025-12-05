@@ -1,5 +1,5 @@
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BeiYazi0&show_icons=true&count_private=true" />
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeiYazi0&layout=compact" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats-pi-murex.vercel.app/api?username=BeiYazi0&show_icons=true&count_private=true" />
+<img align="center" alt="Top Langs" src="https://github-readme-stats-pi-murex.vercel.app/api/top-langs/?username=BeiYazi0&layout=compact" />
 [![BeiYazi0's GitHub stats](https://github-readme-stats-pi-murex.vercel.app/api?username=BeiYazi0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
